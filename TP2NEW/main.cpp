@@ -3,8 +3,6 @@
 #include "Keeper.h"
 
 
-
-
 //функция для второго задания
 void task_2(std::string filename) {
     char choice;
