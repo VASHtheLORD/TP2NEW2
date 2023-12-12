@@ -1,6 +1,7 @@
 #pragma once
 #include "note.h"
 
+
 class Keeper {
 public:
     struct container {
