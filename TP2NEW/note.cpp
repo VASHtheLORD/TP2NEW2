@@ -44,6 +44,8 @@ std::ostream& operator << (std::ostream& os, const NOTE& note) {
     return os;
 }
 
+
+
 //Дружественная функция перегрузки оператора ввода
 std::istream& operator>> (std::istream& in, NOTE& note) {
     std::string str1;
